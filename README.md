@@ -1,5 +1,3 @@
-# AbhivardhanReddy.github.io
-
 ## Accessible URLS 
 https://abhivardhan.github.io/tic-tac-toe
 
